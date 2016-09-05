@@ -1,0 +1,14 @@
+author: elnineo
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/sophisticated-explosion
+
+8x8 frames squared 2048x2048 format
+
+256x256 pixels per frame
+
+Full Color
+
+Enjoy!
+
+Copyright/Attribution Notice: 
+elnineo

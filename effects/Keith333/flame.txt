@@ -1,0 +1,5 @@
+Author: Keith Sear 'Keith333' (http://www.benkyoustudio.com/)
+License: CC-BY
+Origin: http://opengameart.org/content/flame-particle-set-4-in-total
+
+Flame Particle set - 4 different 512x512 particles on a black background

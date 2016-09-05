@@ -1,0 +1,5 @@
+author: Chris Grimmett 'insanity54' (http://grimtech.net)
+license: Public Domain (CC0)
+source: http://opengameart.org/content/ground-arrows
+
+Arrows like from League of Legends or Age of Empires, where you click the ground and arrows appear and point to the place you clicked

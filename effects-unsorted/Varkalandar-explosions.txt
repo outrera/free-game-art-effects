@@ -1,0 +1,14 @@
+author: Hansjörg Malthaner 'Varkalandar' (http://opengameart.org/users/varkalandar)
+license: CC-BY, CC-BY-SA 3.0, GPL2, GPL3, OGA-BY
+origin: http://opengameart.org/content/explosion-clouds
+
+Two sorts of explosions, two sheets of variants of each type. Each explosion comes with 10 animation steps, and each sheet has 24 variants.
+
+If you need different colors, load them in a graphics editor and use a tool like "change hue and saturation", to adjust the colors.
+
+They are meant to be used with an additive blend, so the black background actually works like a transparent background and the colors work like emitted light.
+
+In a fast paced game the player hardly notices the low detail in the clouds.
+
+Copyright/Attribution Notice: 
+For attribution, please state my name, Hansjörg Malthaner, and link here: http://opengameart.org/users/varkalandar

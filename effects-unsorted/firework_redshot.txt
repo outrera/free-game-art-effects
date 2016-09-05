@@ -1,0 +1,7 @@
+author: Matt 'myriad'
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/fireworks
+
+Simple fireworks produced for https://myriad.itch.io/ephelant
+
+The .zip file contains 4 sprite sheets with red, blue, yellow, and violet fireworks, as well as one cut set of 8 sprites for the red fireworks.  The fireworks are the same, but were recolored using Paint.net, and it'd be easy to produce other colorings.

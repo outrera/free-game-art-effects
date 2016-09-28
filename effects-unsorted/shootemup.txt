@@ -1,0 +1,10 @@
+Authors: Kamigeek
+License: CC-BY
+Origin: http://opengameart.org/content/space-shooter-ship-and-items
+
+some 64x64px pic for a small space shooter:
+- a ship
+- bonus
+- upgrade
+- bullet
+- asteroid

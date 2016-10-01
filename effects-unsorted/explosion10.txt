@@ -1,0 +1,14 @@
+author: Tiao Ferreira (http://www.tiaoferreira.deviantart.com)
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/square-explosion
+
+A simple explosion sprite, with 32x32px size. This is not one of my best sprites, but I think somebody will enjoy.
+
+The pack contains a "gmspr" file and 16 separated animation images on png format. 
+
+Tool: Sprite editor from Game Maker 
+
+Date release: 23/09/2016, 12h56min
+
+Copyright/Attribution Notice: 
+Make your name, make a good game - Tião Ferreira

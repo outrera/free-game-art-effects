@@ -1,0 +1,5 @@
+author: DkuCook (https://dkucook.artstation.com/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/spinning-stars-iso
+
+Isometric spinning star animation.

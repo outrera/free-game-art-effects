@@ -1,0 +1,7 @@
+author: shaunlusk
+license: CC0 (Public Domain)
+source: https://opengameart.org/content/shadow-bolt
+
+Shabow bolt image.
+
+For warlocks, mages, etc.  Or whatever.

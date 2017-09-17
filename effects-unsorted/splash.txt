@@ -1,0 +1,9 @@
+author: Jesse McCarthy
+license: CC-BY 3.0
+source: https://opengameart.org/content/splash-effect-32x32
+
+A small splash effect I made for when a cannonball hit the water.
+
+
+Copyright/Attribution Notice: 
+A mention in the credits is appreciated, but I honestly don't care as long as you don't try to pass it as your own.

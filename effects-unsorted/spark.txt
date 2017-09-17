@@ -1,0 +1,10 @@
+author: 13rice (http://weuhzor.com)
+license: Public Domain (CC0)
+source: https://opengameart.org/content/radial-lightning-effect
+
+Here's a radial lightning effect, looks like a spark. Can be used for special hit effect, or a channeling spell.
+
+Enjoy !
+
+Copyright/Attribution Notice: 
+Attribution appreciated to 13rice from OpenGameArt

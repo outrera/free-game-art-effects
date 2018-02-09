@@ -1,0 +1,7 @@
+Author: Chad Wolfe 'The Chayed - KIIRA' (http://kiiragames.weebly.com/)
+License: Public Domain (CC0)
+Source: https://opengameart.org/content/space-shooter-pack
+
+Made for an incomplete Jam game, the art in this pack is mediocre at best. Have at it! ;)
+
+In this pack: UI Elements, Ship, Enemies, Tilemap, and Bullets

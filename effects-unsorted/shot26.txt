@@ -1,0 +1,5 @@
+Author: VSG
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/trail
+
+Energy ball with trail with alpha

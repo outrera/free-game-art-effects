@@ -1,0 +1,5 @@
+Author: Jeremy Mitchell 'floatvoid'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/pixel-art-explosion-animation-0
+
+This was a quick thing - not really any good. Super messy! But if you need something quick for a game jam or prototype, it might serve you.

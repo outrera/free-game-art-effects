@@ -1,0 +1,5 @@
+Author: VSG
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/fx-charge
+
+A FX energy charge animated texture, image sheet with alpha.

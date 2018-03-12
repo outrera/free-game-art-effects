@@ -1,0 +1,14 @@
+Author: null-painter-error (https://null-painter-error.itch.io/)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/animated-32x32px-traps-and-hazards
+
+Six animated hazards I put together to try pixel animation. These might be useful for a roguelike with animated tiles or something similar?
+
+Let me know if there are usability issues, or other sorts of traps you'd like to see in the set.
+
+Let me know if you use it for something so I can check it out!
+
+For attribution, please link to my itch.io page (https://null-painter-error.itch.io/).
+
+Copyright/Attribution Notice: 
+artwork by null.painter.error (https://null-painter-error.itch.io/)

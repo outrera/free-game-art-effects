@@ -1,0 +1,14 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/viking-village-town-center-level-1
+
+Viking village town center (level 1 design). A building for your vikings with an animated smoking chimney! 
+
+Includes:
+
+    Large 2048x PNG image
+    .Blend Blender 3D source included
+    Smoking chimney animation sprite images
+    Low poly, cartoon design
+
+Let me know if you have any questions or requests!

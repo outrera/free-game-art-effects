@@ -1,0 +1,12 @@
+Author: Julien Jorge <julien.jorge@stuff-o-matic.com>
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/spike-ball
+
+This image contains two variations of a spike ball, with the light coming from the top or from the front.
+
+You can see them in action in this video of Plee the Bear.
+
+The archive contains the sprite sheet, the original GIMP images and the files required to recreate the sprite sheet.
+
+Attribution Instructions: 
+Attribution should be done like this: © 2005-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>

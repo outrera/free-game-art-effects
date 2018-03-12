@@ -1,0 +1,22 @@
+Author: Sinestesia (http://www.sinestesiastudio.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/gold-coins-animation-frame-by-frame
+
+***** NOTE *****
+
+The actual animation is WAY SMOOTHER than the preview gif.
+
+Is just that i don't know how to make high frame rate gif files !! xd
+
+***************
+
+Ok. Yeah, this is an atlas of gold coins burst! animation.
+64 frames, each frames is a 512x512 image, the atlas is a 4096x4096 file.
+PNG with transparent background :D
+Best time to run the animation is around 1 sec
+
+Hope you guys like it :>
+
+
+Copyright/Attribution Notice: 
+Just... don't lie and say you made this... cause you didn't (haha) These are free to use, go ahead. If you got the chance though, please mention us :) Or at least leave a like on facebook /sinestesiastudio

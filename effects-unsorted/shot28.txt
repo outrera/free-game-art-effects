@@ -1,0 +1,21 @@
+Author: Julien Jorge <julien.jorge@stuff-o-matic.com>
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/animated-projectiles
+
+This image contains several animated projectiles representing various combinations the air, fire and water elements.
+
+    no element: a simple stone,
+    fire: an incandescent stone,
+    water: a ball of water,
+    air: a deflating balloon,
+    fire + air: a gas cylinder with a little flame,
+    fire + water: a ball of lava,
+    water + air: a bubble,
+    water + fire + air: a homing missile.
+
+These combinations are in use in Plee the Bear. I suggest to render them at a smaller size. You may want to rebuild the sprite sheet using Pack My Sprites.
+
+The archive contains the image, the original GIMP image and the files required to recreate the image.
+
+Attribution Instructions: 
+Attribution should be done like this: © 2005-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>

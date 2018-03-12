@@ -1,0 +1,23 @@
+Author: Sinestesia (http://www.sinestesiastudio.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/hit-animation-frame-by-frame
+
+Frame by frame animations! :D PNG, Atlas format.
+
+Just a single animation of a "hit" vfx.
+
+It's a Sprite Sheet in which each frame is a 512 x 512 size image (4096 x 4096 total)
+
+PNG format with transparency.
+
+ 
+
+If you want to see more stuff like this, pls let me know, leave a comment :>
+
+Oh yeah... and these are free so .... there you go
+
+HAVE FUN! and make awesome games :>
+
+
+Copyright/Attribution Notice: 
+Just... don't lie and say you made this... cause you didn't (haha) These are free to use, go ahead. If you got the chance though, please mention us :) Or at least leave a like on facebook /sinestesiastudio

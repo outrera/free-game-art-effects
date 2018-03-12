@@ -1,0 +1,7 @@
+author: Kevin 'k-skills'
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/spikes-0
+
+a little spike animation i made.
+
+enjoy!

@@ -1,0 +1,5 @@
+Author: Julien Jorge <julien.jorge@stuff-o-matic.com>
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/bomb-1
+
+its a bomb! thats all

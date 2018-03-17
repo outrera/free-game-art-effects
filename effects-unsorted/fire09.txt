@@ -1,0 +1,8 @@
+author: Chromaeleon
+License: CC-BY 3.0
+origin: https://opengameart.org/content/2d-pixel-fire-sprite-strip
+
+Working in untiy trying to get my throwing potion to burst into my explosion animation. My brain feels like the alien from Stargate has placed his palm upon my forehead. lmaooo, but I did create this pixel animation today, and I'm very excited to share it!
+
+Copyright/Attribution Notice: 
+credit as/mention of Chromaeleon <3

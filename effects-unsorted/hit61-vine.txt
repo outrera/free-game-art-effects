@@ -1,0 +1,5 @@
+author: Krys 'krrampersaud01'
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/hero-dude
+
+hes a dude, hes a hero

@@ -1,12 +1,8 @@
-Author: Julien Jorge <julien.jorge@stuff-o-matic.com>
-License: CC-BY-SA 3.0
-Origin: https://opengameart.org/content/spike-ball
+Author: Chris 'GrumpyDiamond'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/pixel-weapons1
 
-This image contains two variations of a spike ball, with the light coming from the top or from the front.
+2 Pixel Weapons Knife and Axe hope anyone can get some use out of them
 
-You can see them in action in this video of Plee the Bear.
-
-The archive contains the sprite sheet, the original GIMP images and the files required to recreate the sprite sheet.
-
-Attribution Instructions: 
-Attribution should be done like this: © 2005-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>
+Copyright/Attribution Notice: 
+Free to use where ever, a little mention always appreciated but not necessary or just a link to your released game

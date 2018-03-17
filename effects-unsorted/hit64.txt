@@ -1,0 +1,8 @@
+Author: Brett P. S. 'Division PLUS'
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/fantasy-front-battle-enemies
+
+Package contains a large collection of hand drawn enemy sprites from a project that was discontinued.  The sprites can be used in a variety of games, but were tailored to a Front Battle system in an RPG.
+
+Copyright/Attribution Notice: 
+Aside from my attribution requirement, if you happen to publicly release a game with my assets, I'd love for you to tell me.

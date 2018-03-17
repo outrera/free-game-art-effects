@@ -1,0 +1,7 @@
+Author: Écrivain (http://queatz.org/scge/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/star
+
+Download contains the 512x512 alpha star image and the .blend so it's easy to make modifications to it; if you wanted a more pointy star for example.  The final image has been run over in GIMP with a value and color brush to accomidate this bug in Blender.
+
+Looks great in any or multiple hues.

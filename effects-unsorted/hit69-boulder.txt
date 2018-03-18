@@ -1,0 +1,5 @@
+Author: One Man Army (https://onemanarmydev.itch.io/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/boulder-creation-animation
+
+I thought this might be cool as a spell effect or something. You could also reverse it so that the boulder is breaking but I think it's cooler this way.

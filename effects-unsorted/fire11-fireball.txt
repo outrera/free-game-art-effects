@@ -1,0 +1,22 @@
+author: Cem Kalyoncu 'cemkalyoncu'
+license: CC-BY 3.0
+origin: https://opengameart.org/content/animated-fireball
+
+A fireball animation both blend file and renders are available. Uses particle emitter and smoke. Rendered top down but if it will make it better I can render it for iso as well.
+
+EDIT:
+Didnt had time to add details so here they are. There are two similar blend files. First one is the travel and dying animation for the fireball and the second is for explosion. Rendered images are categorized as follows:
+
+all: all steps of travel animation (216 frames)
+start: start of fireball (8)
+loop: loop of travel animation (10)
+short loop: shorter version of travel animation (4)
+end: dying animation (6)
+explosion all: all frames of explosion animation (25)
+explosion: extracted frames for explosion animation (11)
+pixart loop: experimental pixel art version of travel animation (4)
+pixart explosion:  experimental pixel art version of explosion, this one is not good though (5)
+
+Original animation is 24fps, but the revised ones are more suitable for 15fps. Rendered images are 128x128, if you need higher resolution you can render and pick same frames I did to have nicely repeating animations.
+
+PS: If someone can create a gif preview, that would make me happy.

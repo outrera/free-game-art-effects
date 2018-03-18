@@ -1,0 +1,7 @@
+Author: theidiotmachine
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/lpc-explosions
+
+I took a week off my current project and wrote a teeny particle renderer that uses the LPC palette, and then blew some shit up! This is all 2d in the sense that the partlcles are animated in a flat space. Everything is 32x32x8.
+
+If anyone thinks its useful I can make some more; or I can post the code to github? CC-0, but please note here if you use it! Cheers!

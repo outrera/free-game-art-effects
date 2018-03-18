@@ -1,0 +1,12 @@
+Author: kindland
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/drop
+
+I know it's a crappy animation, nothing special but the purpose of this post is more to show the source, maybe some ppl want to make this kind of animation in photoshop, so i included the psd source with layers to see how was done.
+
+if you use ps cs 6, animation window is called>  timeline 
+
+(tip). saving for web with Diffusion Transparency dither will show only animation without background, ofcourse if u have no background, if u have, then close layer eye and save.
+
+Attribution Instructions: 
+none

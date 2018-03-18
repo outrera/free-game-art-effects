@@ -1,0 +1,6 @@
+Author: Prinsu-Kun
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/homemade-flame
+
+I made an a flame, using photo-shop filters and gradient map,
+there also a different version flame, for pixel style games.

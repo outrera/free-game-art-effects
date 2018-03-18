@@ -1,0 +1,12 @@
+Author: Spiney
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/animated-sprites-and-textures
+
+Just dumping a random bunch of stuff I did while figuring out some procedural animation mumbo jumbo.
+
+update:
+Someone asked me for transparent backgrounds for the fire animations.
+Because of the way they're generated it's impossible for me to provide those.
+However, you can convert the images to grayscale and use those as an alpha mask.
+Alternatively you can use one of the RGB channels as alpha.
+I found that works pretty well for the fire.

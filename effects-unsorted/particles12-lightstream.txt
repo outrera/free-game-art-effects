@@ -1,0 +1,7 @@
+Author: AntumDeluge
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/lightstream
+
+This is just a simple wallpaper/background that I made in GIMP a long time ago & had nearly forgotten about. I originally uploaded it to OpenDesktop.org. I don't remember what license I used for it, but it's CC0 now. Sorry, only 1280x1024 resolution available & I did not save the GIMP source. Maybe I will crop it to a 16:9 or 16:10 ratio.
+
+Original link: https://opengameart.org/node/82584

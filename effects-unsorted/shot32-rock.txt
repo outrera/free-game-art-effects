@@ -1,0 +1,8 @@
+Author: Viktor Hahn <Viktor.Hahn@web.de>
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/rock-0
+
+A round rolling rock with 12 frames.
+
+Copyright/Attribution Notice:
+This work, made by Viktor Hahn (Viktor.Hahn@web.de), is licensed under the Creative Commons Attribution 4.0 International License. http://creativecommons.org/licenses/by/4.0/

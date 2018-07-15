@@ -1,0 +1,5 @@
+Author: Jonas Klinger 'Skorpio'
+License: CC-BY 3.0, GPL3
+Origin: https://opengameart.org/content/warp-effect-2
+
+A warp jump effect for 2D spaceships. Could also be some kind of explosion or weapon effect.

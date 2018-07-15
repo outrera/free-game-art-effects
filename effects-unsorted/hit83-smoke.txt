@@ -1,0 +1,13 @@
+author: Beast
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/smoke-aura
+
+Swirling Prerendered Smoke Animation with seamless looping.
+
+Can be used pretty for all kind of aura effects, color it black and it is swirling darkness, color it green and it is a flowing acid cloud. Play it backwards and it pulls the smoke it. By changing the material in Blender you also could make it some kind of fire cloud.
+
+The different files are different amount of frames. The 15 frame version won't consume much memory but the lack of frames will be noticable unless you play the animation quite fast. (The 15 frame version is previewed.) The 30 frame version should enough unless you want to go for a really slow and subtile effect.
+
+1 frame is 256x256, if you need a smaller version you can just downscale the whole sprite sheet.
+
+The source file can be used to create a higher resolution version of this effect, you'll need to recalculate the smoke (takes about 20-60 minutes depending on how powerful your PC is) and render all three scenes (this is needed to make the animation loopable) though.

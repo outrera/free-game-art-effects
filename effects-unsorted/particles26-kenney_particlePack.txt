@@ -1,0 +1,17 @@
+Author: Kenney (www.kenney.nl)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/particle-pack-80-sprites
+
+This package includes 80 sprites for particles, light cookies and shaders. Also includes a Unity package with particle effect samples (fire, smoke, magic, hearts, sparks and electricity).
+
+Files:
+
+    Separate PNG files (80×)
+    Tilesheet(s)
+    Vector file(s)
+
+Let me know if you have any questions or requests!
+
+
+Copyright/Attribution Notice: 
+You may give credit to "Kenney.nl" or "www.kenney.nl", this is not mandatory but nonetheless appreciated.

@@ -1,0 +1,5 @@
+Author: Jonas Klinger 'Skorpio'
+License: CC-BY 3.0, GPL3
+Origin: https://opengameart.org/content/sci-fi-effects
+
+34 effects/animations for sci-fi and space games.

@@ -1,0 +1,7 @@
+Author: Manuel Bolaños Gómez 'CodeManu'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/pixel-fx-pack
+
+A pack of pixel effects created with Pixel Fx Designer.
+
+Link to Pixel Fx Designer: https://codemanu.itch.io/particle-fx-designer

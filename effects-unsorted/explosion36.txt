@@ -1,0 +1,10 @@
+Author: Cuzco
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/explosion
+
+16 images of an explosion taking place.  Each is 64 X 64.
+
+ EDIT: added another pic with no background (exp3.jpg).
+
+ 
+POST EDIT:  Added a .png version for alpha channel.

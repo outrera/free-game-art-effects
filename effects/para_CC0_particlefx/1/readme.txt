@@ -1,7 +1,6 @@
 author: para (http://opengameart.org/users/para)
-license: CC0 (Public Domain)
+license: Public Domain (CC0)
 origin: http://opengameart.org/content/animated-particle-effects-1
-        http://opengameart.org/content/animated-particle-effects-2
 
 Specs:
 

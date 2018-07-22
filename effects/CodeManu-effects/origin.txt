@@ -1,7 +1,7 @@
 Author: Manuel Bolaños Gómez 'CodeManu'
 License: Public Domain (CC0)
-Origin: https://opengameart.org/content/pixel-fx-pack
+Origin: https://opengameart.org/content/free-pixel-effects-pack
 
-A pack of pixel effects created with Pixel Fx Designer.
+A pack of 20 pixelart effects made with Pixel Fx Designer (https://codemanu.itch.io/particle-fx-designer). Frame size is 100x100px. 
 
-Link to Pixel Fx Designer: https://codemanu.itch.io/particle-fx-designer
+This is a public domain asset, you can use it for both personal and comercial purposes. No credit required but feel free to show us where you used it on https://twitter.com/DavitMasia and https://twitter.com/CodeManuPro at twitter. :)

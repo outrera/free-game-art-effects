@@ -1,0 +1,10 @@
+Author: Viktor Hahn <Viktor.Hahn@web.de>
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/pixelated-attackhit-animations
+        https://v-ktor.itch.io/pixelated-attackhit-animations
+
+I made some more pixelart attack and hit animations.
+
+The .zip file contains png spritesheets with 64x64 or 64x32 sized frames, usually 10 frames per animation.
+Copyright/Attribution Notice: 
+This work, made by Viktor Hahn (Viktor.Hahn@web.de), is licensed under the Creative Commons Attribution 4.0 International License. http://creativecommons.org/licenses/by/4.0/

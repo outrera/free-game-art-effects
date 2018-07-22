@@ -1,0 +1,5 @@
+Author: Old_Ape
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/the-torch
+
+Simple torch animation.

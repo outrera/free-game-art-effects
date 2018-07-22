@@ -1,0 +1,9 @@
+Author: yd (http://ydstuff.wordpress.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/platformer-sprites
+
+Have been working with a developer on a small platformer similar to Lode Runner. The guy was kind enough to agree to release the artwork under the licence of my choice. So, here you've got public domain pieces. All in one archive. There are also sounds, blender models, and SVG files which I am too lazy to submit separately.
+
+The example of the gameplay can be found here: http://www.youtube.com/watch?v=xJ2URfGaoE8
+
+The artwork is mostly done by me using BIG bundle (Blender+Inkscape+Gimp) of which I am really an amature user. But hey, whatever works :). Something was borrowed from CC0 resources here, openclipart, and the blendswap. So thank to all who submit art there.

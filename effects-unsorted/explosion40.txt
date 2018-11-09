@@ -1,0 +1,9 @@
+Author: Ben Hickling (http://benhickling.itch.io)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/ring-explosion
+
+Transparent PNG sprite sheet - 100 x 100 - 56 frames
+
+Want to create your own effects like this? Check out BlastFX!
+
+https://benhickling.itch.io/blastfx

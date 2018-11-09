@@ -1,0 +1,8 @@
+Author: Kim 'netcake3'
+License: CC-BY-SA 3.0, CC-BY-SA 4.0, GPL2
+Origin: https://opengameart.org/content/laser-effect-sheet
+
+I tried making a laser for my side scroller. Sadly the project was scrapped. Seeif you could use the same.
+
+Copyright/Attribution Notice: 
+Comes without warranty, don't blame me for your losses.

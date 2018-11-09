@@ -1,0 +1,5 @@
+Author: Andrew 'AndHeGames'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/vertical-particle-effects-blue-and-gold
+
+Just playing with particles.

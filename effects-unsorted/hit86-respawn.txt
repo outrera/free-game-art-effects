@@ -1,0 +1,5 @@
+author: Nineball
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/player-respawn-animation
+
+A player respawn animation for a test game

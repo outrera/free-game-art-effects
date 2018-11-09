@@ -1,0 +1,8 @@
+Author: davididev (http://www.davididev.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/water-drop-particle-0
+
+Made to be used in Unity- works best with Additive shader.  (looks better once you apply said shader)
+
+This one is loopable without a ping pong.
+

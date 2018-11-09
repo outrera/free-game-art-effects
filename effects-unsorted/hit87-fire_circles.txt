@@ -1,0 +1,7 @@
+Author: Davit Masia 'Matriax' (kronbits.itch.io)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/fire-circle-fx
+
+Fire circle animation in spritesheet, .PNG with transparency in 4 sizes: 50x50, 100x100, 200x200 and 400x400. This animation has been made using Pixel Fx Designer.
+
+Check our collection on we are adding all stuff related with the tool, so you can add to your favorites and stay uptaded. https://opengameart.org/content/pixel-fx-designer-assets

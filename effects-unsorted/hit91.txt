@@ -1,0 +1,15 @@
+author: rubberduck
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/5x-special-effects-2d
+
+i created 5 different special effects with gimp, 3 are 32x32 and 2 are 64x64
+
+- a greenish effect
+
+- 2x magic fire like effect
+
+- 64x64 light/glow-effect
+
+ -64x64 sparks-effect
+
+xcf-files are included

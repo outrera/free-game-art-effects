@@ -1,0 +1,8 @@
+author: janexx (http://www.unknown-horizons.org/)
+license: CC-BY-SA 3.0
+origin: https://opengameart.org/content/fire
+
+Fire made for the 2D game Unknown Horizons. It was made with Blender 2.76 and can be downloaded as blend file.
+
+Copyright/Attribution Notice: 
+This work is published under the terms of the Creative Commons Attribution Sharealike 3.0 Unported License (see CC). For more information visit http://creativecommons.org/licenses/by-sa/3.0/legalcode 

@@ -1,0 +1,16 @@
+author: Gabriel Lima (https://tiopalada.itch.io/ https://tiopalada.deviantart.com/)
+license: Royalty Free
+origin: https://tiopalada.itch.io/spellbook-2d-v1
+
+Are your wizards too puny? Do they strike no fear at their enemies hearts? Well, maybe it is the right time to give them some more magical juices. The Spellbook2d Wizardry adds four new elements to your wizard's grimoire with three power levels each:
+
+    Fire;
+    Ice;
+    Wind (WIP);
+    Earth (WIP);
+
+The package includes split frames for each spell, spritesheets and short usage guidelines.
+
+(07/04/2018) v0.25 - Fire spells added;
+
+(16/05/2018) v0.5 - Ice spells added;

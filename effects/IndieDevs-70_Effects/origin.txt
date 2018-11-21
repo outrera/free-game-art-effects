@@ -1,0 +1,24 @@
+Author: IndieDevs (https://indiedevs.itch.io/)
+License: Public Domain (CC0)
+Origin: https://indiedevs.itch.io/70-video-game-effects
+
+All effects are on transparent backgrounds and ready to be sliced and placed in your game.
+
+USE THESE EFFECTS FOR
+
+Spells
+
+Explosions
+
+Projectiles
+
+And More!
+
+
+Status	Released
+Category	Assets
+Rating	
+(1)
+Author	IndieDevs
+Tags	2D, assets, effects, Explosions, fx, game, mobile, projectiles, spells, sprites
+Asset license	Creative Commons Zero v1.0 Universal

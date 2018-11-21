@@ -1,0 +1,15 @@
+Author: cassala
+License: Public Domain (CC0)
+Origin: https://cassala.itch.io/bubble-sprites
+
+A set of bubble sprites I made for fun a long time ago and found again while randomly browsing my hard drive. After some editing, sorting and testing, I now think that they're ready to be shared with the world! Credit is entirely optional, but would be appreciated.
+
+Included in this pack:
+
+    - An SVG file with the original vectors of the bubbles
+
+    - Exported images of all of the bubbles in sizes: 512x512, 256x256, 128x128, 64x64, 32x32 and 16x16
+
+    - Greyscale variants of the exported bubbles, which could be useful for masking or easier colouring.
+
+The screenshots you're seeing are of these bubbles in the libGDX particle editor. If you want to try it out for yourself, you can download it here. You'll need Java installed to run it.

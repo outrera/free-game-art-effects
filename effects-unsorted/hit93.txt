@@ -1,0 +1,15 @@
+author: SkywardRiver
+license: Royalty Free
+origin: https://elthen.itch.io/2d-pixel-art-portal-sprites
+
+A portal sprite sheet you can use for any 2d game you are building!
+
+Included Animations:
+
+    Idle
+    Emerge
+    Disappear
+
+Feel free to use the sprites in commercial/non-commercial projects! If you do, please consider tipping, or at least dropping a comment down below.  Happy developing!
+
+Do you need a compatible tileset? More free characters?  Look no more! You can grab them for free at my patreon page! https://www.patreon.com/elthen

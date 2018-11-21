@@ -1,0 +1,15 @@
+author: SkywardRiver
+license: Royalty Free
+origin: https://skywardriver.itch.io/free-pixel-animations-christmas-pack
+
+Free Pixel Animations - Christmas Pack
+
+The second of a series of Pixel Animation Packs! This one's free!
+
+This free asset pack contains 12 high-quality animations to be used in 2D games. The animations feature many transitional frames, bringing a level of smoothness to 2D animations that is seldom seen.
+
+This pack is themed for Christmas and as such, contains mostly snow/ice animations. This pack also contains a set of the given animations in the Time Fantasy color palette, ensuring they'll fit the look of any game made using Time Fantasy!
+
+This pack does not contain any Environment animations (such as campfires, waterfalls, smoke effects, etc). This pack is more focused on the combat side of games, featuring frost-fireballs, explosions, slashes, and spell effects. Keep an eye out for the upcoming Environment Animations Pack if you're interested in spicing up your game's maps!
+
+Can be used in most any engine. Can be used for commercial and non-commercial use.

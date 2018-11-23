@@ -1,0 +1,5 @@
+Author: Jonathan Wayman 'FacadeGaikan' (http://www.patreon.com/PlanetKiller)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/spritesplosions
+
+Three 64x spritely explosions. BlueStar is based on one of the kenny assets, but the other two are originals. Non-animated; comes with Gimp xcf file.

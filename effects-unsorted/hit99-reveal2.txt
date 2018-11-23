@@ -1,0 +1,8 @@
+Author: Grahhhhh
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/animated-reveal-grid
+
+Making a board game where spaces are unseen.  This tile goes over the space and is killed when selected.  Not happy with artwork.  Grahhhh.
+
+Copyright/Attribution Notice: 
+No copyright, no need to credit. If you like, just leave a comment.

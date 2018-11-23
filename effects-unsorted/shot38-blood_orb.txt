@@ -1,0 +1,8 @@
+Author: Michael Dobekidis 'netgfx' (www.nightlycoding.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/evil-blood-orb-animated
+
+An evil blood orb used in my game Vampyre: World at stake
+
+It contains 7 frames (67x67) & the .psd file to edit these
+https://codecanyon.net/item/vampyre-world-at-stake/17407880?ref=Netgfx

@@ -1,0 +1,19 @@
+author: Tiny Speck (http://www.glitchthegame.com/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/item-popup-starburst
+
+
+A mash up of some graphics from the Glitch assets by Tiny Speck.
+
+ 
+
+item star burst to display behind rewards, etc.
+
+ 
+
+ 
+
+Includes png sequence (60 frames), .fla file
+
+Copyright/Attribution Notice: 
+You do not have to credit anybody, but if you do please credit Tiny Speck as the original creators of the art: http://www.glitchthegame.com/ "All files are provided by Tiny Speck under the Creative Commons CC0 1.0 Universal License. This is a broadly permissive "No Rights Reserved" license — you may do what you please with what we've provided. There is no obligation to link or credit the works, but if you do, please link to glitchthegame.com, our permanent "retirement" site for the game and these assets. Of course, links/shoutouts to Tiny Speck (tinyspeck.com) and/or Slack (slack.com) are appreciated."

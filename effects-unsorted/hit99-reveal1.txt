@@ -1,0 +1,8 @@
+Author: Grahhhhh
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/animated-reveal-grid-0
+
+Making a video board game with "fog of war" on.  Basic animation for revealing space, 32x32.
+
+Copyright/Attribution Notice: 
+No copyright, no need to credit. If you like just leave a comment.

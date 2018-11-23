@@ -1,0 +1,5 @@
+author: Justin Jacobs 'dorkster'
+license: CC-BY-SA 3.0
+origin: https://opengameart.org/content/animated-flame
+
+Intended as a status effect visual for FLARE. I originally wanted to do this in Blender, but I know next to nothing about creating particle effects. I only needed one angle, so I just went ahead and created it in the GIMP.

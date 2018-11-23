@@ -1,0 +1,14 @@
+Author: marquet (http://marquetgames.tumblr.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/effect-fx-hitting-a-invisible-wall
+
+Here a example of use in my game: http://i.imgur.com/NVDFGxF.gif
+
+Just import and add Additive to the effect.
+
+Check my game: http://marquetgames.tumblr.com/   
+
+More effects soon.
+
+Copyright/Attribution Notice: 
+Licence: Free/public

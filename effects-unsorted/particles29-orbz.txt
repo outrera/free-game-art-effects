@@ -1,0 +1,7 @@
+Author: Robert C. 'Mumu'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/node/12771
+
+10 shiny Orbs useful as icons for items or abilities. The original images are 64x64.
+
+Added Less Shiny per equest and I added the original file (.pdn) as well.

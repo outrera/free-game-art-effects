@@ -1,0 +1,12 @@
+author: MoonStar <hamcav90@gmail.com>
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/bloodsplatter-and-bloodsplash-animation
+
+What you get:
+    bloodsplash animation as single image files + spritesheet
+    bloodsplatter animation as single image file
+
+Both are drawn with GIMP. Source File is included.
+
+Copyright/Attribution Notice: 
+Copy this as much as you want :D

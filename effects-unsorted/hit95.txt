@@ -1,0 +1,8 @@
+author: James (Lokiare) G. Holloway www.kelandlokgames.com
+license: CC-BY 3.0
+origin: https://opengameart.org/content/3d-swirls
+
+A couple of sparkly swirls made in blender and then turned into sprite sheets. Suitable for low resolution games or small animations in high res games.
+
+Attribution Instructions: 
+Credit: "James (Lokiare) G. Holloway www.kelandlokgames.com"

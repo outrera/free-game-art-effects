@@ -1,0 +1,10 @@
+Author: Julien Jorge <julien.jorge@stuff-o-matic.com>
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/water-splash
+
+This image contains the frames for an animated water splash.
+
+The archive contains the image, the original GIMP image and the necessary files to recreate the image.
+
+Attribution Instructions:
+Licensed under the terms of the version 3.0 of the Creative Commons Attribution-Share Alike license. © 2005-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>

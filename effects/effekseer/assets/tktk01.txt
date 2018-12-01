@@ -1,0 +1,24 @@
+Author: tktk
+License: Public Domain (CC0)
+Origin: https://effekseer.github.io/en/contributes/tktk01/index.html
+
+The following was google translated from Japanese.
+
+Effects first post contributed to the effect I made up to some extent
+
+* Noticeable *
+
+Since it is made on the premise that it is used for 2D game (concretely, RPG muscle) by outputting to serial number image by recording rather than 3D games, depending on the angle, since it is ruined and the number of occurrences of particles is large , Drawing may be heavy
+
+* Effect breakdown * (Classification is somewhat appropriate)
+- Arrow (arrow type) 2 kinds
+- Blow (blow, shock type) 15 kinds
+- Cure (recovery type) 7 species
+- Dark (dark) 3 kinds
+- Fire (fire type) 8 species
+- hozyo (auxiliary type) 5 species
+- Light (light type) 4 kinds
+- Magic (Evil) 2 kinds
+- Soil (earth type) 1 kind
+- Sword (slashing type) 22 species
+- Wind (wind type) 2 kinds

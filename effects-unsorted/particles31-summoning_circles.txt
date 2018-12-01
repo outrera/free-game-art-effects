@@ -1,0 +1,12 @@
+Author: Luke.RUSTLTD
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/4-summoning-circles
+
+4 basic summoning cirlces
+
+ 
+
+I came across the technique to generate the ring of glyphs and decided I would put together some basic summoning circles/magic ring/things. 
+
+I included .ai and .svg files for each so these can be used in a variety of settings.
+

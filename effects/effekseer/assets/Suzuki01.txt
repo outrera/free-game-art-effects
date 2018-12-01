@@ -1,0 +1,3 @@
+Author: 鈴木克史 (https://twitter.com/orangesuzuki)
+License: Public Domain (CC0)
+Origin: https://effekseer.github.io/en/contributes/Suzuki01/index.html

@@ -1,0 +1,18 @@
+Author: tktk
+License: Public Domain (CC0)
+Origin: https://effekseer.github.io/en/contributes/tktk02/index.html
+
+the following was google translated.
+
+This effect is made on the assumption that it will be displayed on the game engine by UV animation. I think that the drawing burden is relatively heavy and the collapse due to the direction has become relatively large. Basically, since it is made only by addition synthesis, if it is output as an image, it appears beautifully, but distortion is still in addition synthesis and the influence of distortion is relatively large, so if you make it to Efk file, I think whether it is good. (The node named Distortion is distorted mainly) The confirmation has become serious, so texture of other people not using it has been included.
+
+Contents of package
+
+    Blow x6
+    Claw x4
+    Dark x2
+    Fire x8
+    Gun x9
+    Light x4
+    Spear x4
+    Sword x6

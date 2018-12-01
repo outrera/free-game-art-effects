@@ -1,0 +1,24 @@
+Author: 日陰者ピエール (https://twitter.com/HikagePierreACV)
+License: Public Domain (CC0)
+Origin: https://effekseer.github.io/en/contributes/Pierre02/index.html
+
+ * Overview *
+
+An effects collection for 3D games. The particles can be used to create quite extravagant effects.
+* List of Effects *
+
+    Blessing Effect
+    Blood Lance Effect
+    Cosmic Mist Effect
+    Feather Bomb Effect
+    Fire Ball Effect
+    Gate of Calve
+    Bleeding Effect
+    5 Effects for Sword Skills (Ember, Lightning, Storm, Moonlight, Sacred Light)
+
+* Important Note *
+
+These effects make ample use of the distortion effect, which can be graphically intensive. If needed, you can disable the nodes that are labeled "blur" to improve performance.
+* Contact *
+
+Twitter → @HikagePierreACV 

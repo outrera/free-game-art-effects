@@ -1,0 +1,3 @@
+Author: NEXT-SOFT+ (http://plus.next-soft.net/)
+License: Public Domain (CC0)
+Origin: https://effekseer.github.io/en/contributes/NextSoft01/index.html

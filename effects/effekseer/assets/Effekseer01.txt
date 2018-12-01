@@ -1,0 +1,3 @@
+Author: Effekseer (https://effekseer.github.io)
+License: Public Domain (CC0)
+Origin: https://effekseer.github.io/en/contributes/Effekseer01/index.html

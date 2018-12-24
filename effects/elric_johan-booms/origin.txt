@@ -1,0 +1,12 @@
+Author: Robert Cox 'ElricJohan' (http://burninstudios.com/home/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/booms-explosions
+
+A batch of explosions I made years ago for my students, some better than others.
+
+White can/should be replaced by transparency, i have already done this for some explosions but not all.
+
+There are some exploding hearts because the world needs more love (and for my wife lol)
+
+Attribution Instructions: 
+Public Domain no attribution necessary - free to use in any way

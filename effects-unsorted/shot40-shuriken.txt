@@ -1,0 +1,5 @@
+Author: Lionx_Dagger
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/small-sprites
+
+random small sprites mainly ammo

@@ -1,0 +1,1 @@
+This is a batch of explosions made by Robert Cox (aka ElricJohan) a few years ago in 2011. They may be used freely without atribution and are released to the Public Domain.

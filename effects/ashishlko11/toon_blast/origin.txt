@@ -1,0 +1,16 @@
+Author: Ashish Kumar Yadav 'ashishlko11' (https://sellfy.com/ashishlko11)
+License: CC-BY 3.0, CC-BY 4.0, GPL3
+Origin: https://opengameart.org/content/toon-blast
+
+This Assets contain 2 amazing toon blast Animation in Sprite sheet Manner.
+
+File Format PNG 
+
+Single Frame Pixel Dimensions 300x300 px
+
+Sprite sheet Pixel Dimensions 1800x1800 px
+
+Thanks
+
+Copyright/Attribution Notice: 
+If You Like Those effects Please Appreciate it. All credits goes to me. Thanks

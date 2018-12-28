@@ -1,0 +1,5 @@
+Author: devnewton <devnewton@bci.im> (http://bci.im/)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/burning-crate
+
+A burning crate animation from Newton Adventure: http://devnewton.bci.im/projects/newton_adventure

@@ -1,0 +1,5 @@
+Author: Yiannis Panagiotopoulos 'yiannisd' (http://17pounder.deviantart.com/)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/energy-ball
+
+I made an energy ball spritesheet for my demo. It has charge, maintain (Top 3 sprites) and a travel sprite.

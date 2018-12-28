@@ -1,0 +1,5 @@
+Author: Jonas Wagner (http://29a.ch/)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/asteroid-explosions-rocket-mine-and-laser
+
+I decided to release some sprites of my game jswars. See http://29a.ch/2010/4/10/js-wars-media-released-under-creative-commons for more information.

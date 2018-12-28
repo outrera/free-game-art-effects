@@ -1,0 +1,5 @@
+Author: Teh_Bucket
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/rotating-planets
+
+Basically, these are rectangular maps of planet surfaces that loop horizontally. So you put a circular mask over them and offset the x of the background image, and it appears to rotate. The maps are grayscale and meant to be colorized, for generated environments.

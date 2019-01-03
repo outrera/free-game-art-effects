@@ -1,0 +1,5 @@
+author: FiveAsOne
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/bullet-frames
+
+Just something for any shooters or shmups or whatever you want

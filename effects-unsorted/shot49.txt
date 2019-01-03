@@ -1,0 +1,10 @@
+Author: Bonsaiheldin (http://bonsaiheld.org)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/sci-fi-space-simple-bullets
+
+I made these bullet thingies for the HTML5 space game i'm developing to learn programming.
+
+Hint: Color them white, then you can easily change them to any color you want.
+
+Attribution Instructions: 
+Bonsaiheldin | http://bonsaiheld.org or a link to this page

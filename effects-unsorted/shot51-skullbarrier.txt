@@ -1,0 +1,5 @@
+author: FiveAsOne
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/pharoah-enemy-animations
+
+Just something I whipped up for an enemy concept. Feel free to use.
